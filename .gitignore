@@ -1,0 +1,54 @@
+# Compiled class files
+target/
+out/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/
+build/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Maven Wrapper
+.mvn/
+!**/mvnw
+!**/mvnw.cmd
+
+# Spring Boot specific
+# (exclude generated files during packaging)
+*.jar
+*.war
+
+# Test reports
+surefire-reports/
+jacoco.exec
+
+# Environment files
+.env
+
+# Dependency directories (uncommon but precautionary)
+node_modules/
+
